@@ -1,0 +1,72 @@
+@media only screen and (max-width:980px){
+
+    #masthead{
+        position:relative;
+        margin:auto;
+    }
+  
+    #main-container{
+        width:75%;
+        height:45%;
+        float:left;
+        padding:20px;
+    }
+   
+    textarea {
+        height: 100px;
+      }
+
+
+}
+
+
+@media only screen and (max-width:768px){
+
+    #masthead{
+        position:relative;
+        margin:auto;
+    }
+
+    #main-container{
+        width:100%;
+        height:45%;
+        float:left;
+        padding:20px;
+    }
+        textarea {
+        height: 100px;
+      }
+
+}
+
+@media only screen and (max-width:640px){
+
+    #logo{
+        width:100%;
+    }
+    .nav{
+        float:left;
+        margin:0 auto;
+    }
+
+    #mastehead{
+        position:relative;
+        margin:auto;
+        width:100%;
+    }
+
+    #main-container{
+        width:100%;
+        height:45%;
+        float:left;
+        padding:20px;
+        margin:10px;
+    }
+        textarea {
+        height: 100px;
+      }
+
+      .work{
+          margin:0 auto;
+      }
+}
